@@ -4,3 +4,7 @@ The Gang System Script is a custom script designed for a FiveM server to manage 
 
 [preview](https://streamable.com/fdie81)
 
+
+[discord](https://discord.gg/k8XNJbD4T7)
+
+
