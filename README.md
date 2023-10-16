@@ -3,7 +3,9 @@ The Gang System Script is a custom script designed for a FiveM server to manage 
 
 for QBCore framework
 requirements:
+
 -qb-core
+
 -ox_lib
 
 [preview](https://streamable.com/fdie81)
